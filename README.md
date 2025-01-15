@@ -1,12 +1,12 @@
 
 
-# 🐔 Chicken Road Cross Game 🚦
+# 🐔 Chicken Road Cross  Game 🚦
 
-Welcome to **Chicken Road Cross Game**! 🎮 In this fun and simple web game, you help a chicken dodge traffic and cross a busy road. Built using HTML, CSS, and JavaScript, it’s a beginner-friendly project showcasing basic game mechanics.
+Welcome to **Chicken Road Cross Game**! 🎮 In this fun and  simple web game, you help a chicken dodge traffic and cross a busy road. Built using HTML, CSS, and JavaScript, it’s a beginner-friendly project showcasing basic game mechanics.
 
 ---
 
-## 🎯 Features
+## 🎯  Features 	
 
 - **Interactive gameplay**: Control the chicken to avoid cars and trucks.
 - **Progressive difficulty**: Vehicles move faster as you cross more roads.
